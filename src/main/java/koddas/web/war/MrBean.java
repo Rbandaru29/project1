@@ -98,6 +98,7 @@ public class MrBean implements Serializable {
 	public String getCarBrand() {
 		return carBrand;
 	}
+	/**
 		public String getCarBrand() {
 		return carBrand;
 	}
@@ -129,7 +130,7 @@ public class MrBean implements Serializable {
 		return carBrand;
 	}
 
-	/**
+	
 	 * Gives the bean a new car brand.
 	 * 
 	 * @param carBrand The new car brand.
